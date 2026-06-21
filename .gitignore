@@ -1,0 +1,17 @@
+build/
+
+*.pro.user
+
+*.o
+
+*.obj
+
+*.exe
+
+*.dll
+
+*.a
+
+*.so
+
+*.user
