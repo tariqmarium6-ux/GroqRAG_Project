@@ -57,5 +57,16 @@ faiss_index/: (Git-ignored) Stores the vector database locally.
 
 🎓 Academic Context
 This project was developed during my second semester at NED University of Engineering & Technology as a practical application of object-oriented design and modern AI systems.
+# GroqRAG Project: From Static Pipelines to Agentic Consensus
+
+This repository contains the source code for a fully functional baseline RAG system built using LangChain, FAISS, and Llama 3.1 via Groq. 
+
+## 📄 New Architectural Blueprint (June 2026)
+I have recently published a technical whitepaper detailing the structural limitations of this baseline and proposing a self-correcting, multi-agent RAG framework.
+
+* **Read the Whitepaper:** [Beyond Static Context: Architecting a General-Purpose, Self-Correcting RAG Platform](./docs/whitepaper_final_v2.pdf)
+* **Status:** Baseline system is fully functional (see code below). Advanced agentic architecture implementation is currently underway.
+
+---
 
 Created by MARIUM TARIQ and NIDA NADEEM 
